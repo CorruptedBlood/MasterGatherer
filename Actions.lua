@@ -22,9 +22,9 @@ aura_env.battleforazeroth = {
         [8] = '152510' -- Anchor Weed
     },
     ores = {
-        [1] = '152512', -- Monelite Ore
-        [2] = '152579', -- Storm Silver Ore
-        [3] = '152513' -- Platinum Ore
+        [1] = '152512', -- Monelite
+        [2] = '152579', -- Storm Silver
+        [3] = '152513' -- Platinum
     },
     leathers = {
         [1] = '152541', -- Coarse Leather
@@ -94,7 +94,7 @@ aura_env.legion = {
         [8] = '124106' -- Felwort
     },
     ores = {
-        [1] = '123918', -- Leystone Ore
+        [1] = '123918', -- Leystone
         [2] = '123919', -- Felslate
         [3] = '151564', -- Empyrium
         [4] = '124444' -- Infernal Brimstone
@@ -114,7 +114,7 @@ aura_env.legion = {
     },
     cloths = {
         [1] = '124437', -- Shal'dorei Silk
-        [2] = '151567' -- Lightweave Cloth
+        [2] = '151567' -- Lightweave
     },
     meats = {
         [1] = '124121', -- Wildfowl Egg
@@ -144,8 +144,8 @@ aura_env.warlordsofdreanor = {
         [6] = '109127' -- Starflower
     },
     ores = {
-        [1] = '109119', -- True Iron Ore
-        [2] = '109118' -- Blackrock Ore
+        [1] = '109119', -- True Iron
+        [2] = '109118' -- Blackrock
     },
     leathers = {
         [1] = '110609' -- Raw Beast Hide
@@ -190,10 +190,10 @@ aura_env.mistofpandaria = {
         [7] = '72238' -- Golden Lotus
     },
     ores = {
-        [1] = '72092', -- Ghost Iron Ore
+        [1] = '72092', -- Ghost Iron
         [2] = '72093', -- Kyparite
-        [3] = '72103', -- Black Trillium Ore
-        [4] = '72094' -- White Trillium Ore
+        [3] = '72103', -- Black Trillium
+        [4] = '72094' -- White Trillium
     },
     leathers = {
         [1] = '79101', -- Prismatic Scale
@@ -210,7 +210,7 @@ aura_env.mistofpandaria = {
         [5] = '74248' -- Sha Crystal
     },
     cloths = {
-        [1] = '72988' -- Windwool Cloth
+        [1] = '72988' -- Windwool
     },
     meats = {
         [1] = '74833', -- Raw Tiger Steak
@@ -241,9 +241,9 @@ aura_env.cataclysm = {
         [6] = '52987' -- Twiligth Jasmine
     },
     ores = {
-        [1] = '52185', -- Elementium Ore
-        [2] = '53038', -- Obsidium Ore
-        [3] = '52183' -- Pyrite Ore
+        [1] = '52185', -- Elementium
+        [2] = '53038', -- Obsidium
+        [3] = '52183' -- Pyrite
     },
     leathers = {
         [1] = '56516', -- Heavy Savage Leather
@@ -264,7 +264,7 @@ aura_env.cataclysm = {
         [6] = '52722' -- Maelstrom Crystal
     },
     cloths = {
-        [1] = '53010' -- Embersilk Cloth
+        [1] = '53010' -- Embersilk
     },
     meats = {
         [1] = '62783', -- Basilisk "Liver"
@@ -299,9 +299,9 @@ aura_env.wrathofthelichking = {
         [9] = '36908' -- Frost Lotus
     },
     ores = {
-        [1] = '36912', -- Saronite Ore
-        [2] = '36909', -- Cobalt Ore
-        [3] = '36910' -- Titanium Ore
+        [1] = '36912', -- Saronite
+        [2] = '36909', -- Cobalt
+        [3] = '36910' -- Titanium
     },
     leathers = {
         [1] = '112182', -- Patch of Fel Hide
@@ -324,7 +324,7 @@ aura_env.wrathofthelichking = {
         [6] = '34057' -- Abyss Crystal
     },
     cloths = {
-        [1] = '33470' -- Frostweave Cloth
+        [1] = '33470' -- Frostweave
     },
     meats = {},
     fishes = {
@@ -368,7 +368,7 @@ aura_env.vanilla = {
         [13] = '3818', -- Fadeleaf
         [14] = '3821', -- Goldthorn
         [15] = '3358', -- Khadgar's Whisker
-        [16] = '3819', -- Wintersbite (?) - Dragon's Tee
+        [16] = '3819', -- Wintersbite (?) - Dragon's Teeth
         [17] = '4625', -- Firebloom
         [18] = '8831', -- Purple Lotus
         [19] = '8836', -- Arthas' Tears
@@ -381,13 +381,34 @@ aura_env.vanilla = {
         [26] = '13465', -- Mountain Silversage
         [27] = '13466', -- Plaguebloom (?) - Sarrowmoss
         [28] = '13467', -- Icecap
-        [29] = '8153', -- Wildvine
-        [30] = '13468' -- Black Lotus
+        [29] = '22710', -- Bloodthistle
+        [30] = '8153', -- Wildvine
+        [31] = '13468' -- Black Lotus
     },
-    ores = {},
+    ores = {
+        [1] = '2770', -- Copper
+        [2] = '2771', -- Tin
+        [3] = '2772', -- Iron
+        [4] = '3858', -- Mithril
+        [5] = '10620', -- Thorium
+        [6] = '11370', -- Dark Iron
+        [7] = '22202', -- Small Obsidian Shard
+        [8] = '22203', -- Large Obsidian Shard
+        [9] = '2775', -- Silver
+        [10] = '2776', -- Gold
+        [11] = '7911', -- Truesilver
+        [12] = '18562', -- Elementium Ore (?)
+    },
     leathers = {},
     disenchants = {},
-    cloths = {},
+    cloths = {
+        [1] = '2589', -- Linen
+        [2] = '2592', -- Wool
+        [3] = '4306', -- Silk
+        [4] = '4338', -- Mageweave
+        [5] = '14256', -- Felcloth
+        [6] = '14342' -- Mooncloth
+    },
     meats = {},
     fishes = {}
 }

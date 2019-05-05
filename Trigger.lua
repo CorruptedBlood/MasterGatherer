@@ -372,8 +372,8 @@ function(states, event)
         
         point = point + 1
     end
-    
-    if aura_env.config['showServiceMedal-Alliance'] then -- 7th Legion Service Medal
+
+    if aura_env.config['showPrismaticManapearl'] then -- Prismatic Manapearl
         local id = aura_env.battleforazeroth.currencies[4]
         local name, currentAmount, texture, _, _, _, _, quality = GetCurrencyInfo(id)
         
@@ -392,7 +392,7 @@ function(states, event)
         point = point + 1
     end
     
-    if aura_env.config['showServiceMedal-Horde'] then -- Honorbound Service Medal
+    if aura_env.config['showServiceMedal-Alliance'] then -- 7th Legion Service Medal
         local id = aura_env.battleforazeroth.currencies[5]
         local name, currentAmount, texture, _, _, _, _, quality = GetCurrencyInfo(id)
         
@@ -411,8 +411,27 @@ function(states, event)
         point = point + 1
     end
     
-    if aura_env.config['showTitanResiduum'] then -- Titan Residuum
+    if aura_env.config['showServiceMedal-Horde'] then -- Honorbound Service Medal
         local id = aura_env.battleforazeroth.currencies[6]
+        local name, currentAmount, texture, _, _, _, _, quality = GetCurrencyInfo(id)
+        
+        if aura_env.config['showColors'] then
+            color = ITEM_QUALITY_COLORS[quality] or aura_env.constants.color
+            name = CreateColor(color.r, color.g, color.b):WrapTextInColorCode(name)
+        end
+        
+        states[point] = {
+            show = true,
+            changed = true,
+            name = ('%s (%d)'):format(name, currentAmount),
+            icon = texture,
+        }
+        
+        point = point + 1
+    end
+    
+    if aura_env.config['showTitanResiduum'] then -- Titan Residuum
+        local id = aura_env.battleforazeroth.currencies[7]
         local name, currentAmount, texture, _, _, _, _, quality = GetCurrencyInfo(id)
         
         if aura_env.config['showColors'] then

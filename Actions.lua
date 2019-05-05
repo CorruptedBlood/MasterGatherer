@@ -72,9 +72,10 @@ aura_env.battleforazeroth = {
         [1] = '1560', -- War Resources
         [2] = '1580', -- Seal of Wartorn Fate
         [3] = '1710', -- Seafarer's Dubloon
-        [4] = '1717', -- 7th Legion Service Medal
-        [5] = '1716', -- Honorbound Service Medal
-        [6] = '1718' -- Titan Residuum
+        [4] = '1721', -- Prismatic Manapearl (8.2)
+        [5] = '1717', -- 7th Legion Service Medal
+        [6] = '1716', -- Honorbound Service Medal
+        [7] = '1718' -- Titan Residuum
     },
     miscellaneous = {
         [1] = '162460', -- Hydrocore
@@ -328,7 +329,8 @@ aura_env.wrathofthelichking = {
         [6] = '34057' -- Abyss Crystal
     },
     cloths = {
-        [1] = '33470' -- Frostweave
+        [1] = '33470', -- Frostweave
+        [2] = '42253' -- Iceweb Spider Silk
     },
     meats = {},
     fishes = {

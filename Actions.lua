@@ -68,6 +68,14 @@ aura_env.battleforazeroth = {
         [11] = '162515', -- Midnight Salmon
         [12] = '162517' -- U'taka
     },
+    miscellaneous = {
+        [1] = '162460', -- Hydrocore
+        [2] = '165948', -- Tidalcore
+        [3] = '152668', -- Expulsom
+        [4] = '162461', -- Sanguicell
+        [5] = '165703', -- Breath of Bwonsamdi
+        [6] = '137642' -- Mark of Honor
+    },
     currencies = {
         [1] = '1560', -- War Resources
         [2] = '1580', -- Seal of Wartorn Fate
@@ -76,14 +84,6 @@ aura_env.battleforazeroth = {
         [5] = '1717', -- 7th Legion Service Medal
         [6] = '1716', -- Honorbound Service Medal
         [7] = '1718' -- Titan Residuum
-    },
-    miscellaneous = {
-        [1] = '162460', -- Hydrocore
-        [2] = '165948', -- Tidalcore
-        [3] = '152668', -- Expulsom
-        [4] = '162461', -- Sanguicell
-        [5] = '165703', -- Breath of Bwonsamdi
-        [6] = '137642' -- Mark of Honor
     }
 }
 

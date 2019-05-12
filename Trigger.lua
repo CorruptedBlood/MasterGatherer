@@ -1,4 +1,4 @@
-function(states, event)
+function(states)
     local price
     local point = 3
     local stacks = 0

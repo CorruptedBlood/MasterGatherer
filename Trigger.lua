@@ -77,7 +77,7 @@ function(states)
             else
                 selectedOperator = aura_env.config['TSMoperation']
             end
-            price = TSMAPI_FOUR.CustomPrice.GetValue(selectedOperator, tonumber(data[i]))
+            price = TSM_API.GetCustomPriceValue(selectedOperator, "i:"..data[i])
             price = price * stacks
             aura_env.auction[i] = price
             if aura_env.config['onlyTotal'] then

@@ -81,9 +81,11 @@ aura_env.battleforazeroth = {
         [2] = '1580', -- Seal of Wartorn Fate
         [3] = '1710', -- Seafarer's Dubloon
         [4] = '1721', -- Prismatic Manapearl (8.2)
-        [5] = '1717', -- 7th Legion Service Medal
-        [6] = '1716', -- Honorbound Service Medal
-        [7] = '1718' -- Titan Residuum
+        [5] = '1755', -- Coalescing Visions (8.3)
+        [6] = '1719', -- Corrupted Mementos (8.3)
+        [7] = '1717', -- 7th Legion Service Medal
+        [8] = '1716', -- Honorbound Service Medal
+        [9] = '1718' -- Titan Residuum
     }
 }
 

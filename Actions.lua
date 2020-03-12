@@ -18,12 +18,12 @@ aura_env.battleforazeroth = {
         [4] = '152507', -- Akunda's Bite
         [5] = '152508', -- Winter's Kiss
         [6] = '152506', -- Star Moss
-        [7] = '152510', -- Anchor Weed
+        [7] = '152510' -- Anchor Weed
     },
     ores = {
         [1] = '152512', -- Monelite Ore
         [2] = '152579', -- Storm Silver Ore
-        [3] = '152513', -- Platinum Ore
+        [3] = '152513' -- Platinum Ore
     },
     leathers = {
         [1] = '152541', -- Coarse Leather
@@ -31,22 +31,22 @@ aura_env.battleforazeroth = {
         [3] = '154164', -- Blood-Stained Bone
         [4] = '154722', -- Tempest Hide
         [5] = '153051', -- Mistscale
-        [6] = '154165', -- Calcified Bone
+        [6] = '154165' -- Calcified Bone
     },
     disenchants = {
         [1] = '152875', -- Gloom Dust
         [2] = '152876', -- Umbra Shard
-        [3] = '152877', -- Veiled Crystal
+        [3] = '152877' -- Veiled Crystal
     },
     cloths = {
         [1] = '152576', -- Tidespray Linen
-        [2] = '152577', -- Deep Sea Satin
+        [2] = '152577' -- Deep Sea Satin
     },
     meats = {
         [1] = '152631', -- Briny Flesh
         [2] = '154897', -- Stringy Loins
         [3] = '154898', -- Meaty Haunch
-        [4] = '154899', -- Thick Paleo Steak
+        [4] = '154899' -- Thick Paleo Steak
     },
     fishes = {
         [1] = '152549', -- Redtail Loach
@@ -58,7 +58,7 @@ aura_env.battleforazeroth = {
         [7] = '152547', -- Great Sea Catfish
         [8] = '162516', -- Rasboralus
         [9] = '162515', -- Midnight Salmon
-        [10] = '162517', -- U'taka
+        [10] = '162517' -- U'taka
     },
     miscellaneous = {
         [1] = '162460', -- Hydrocore
@@ -89,13 +89,13 @@ aura_env.legion = {
         [4] = '151565', -- Astral Glory
         [5] = '124101', -- Aethril
         [6] = '124104', -- Fjarnskaggl
-        [7] = '124106', -- Felwort
+        [7] = '124106' -- Felwort
     },
     ores = {
         [1] = '123918', -- Leystone Ore
         [2] = '123919', -- Felslate
         [3] = '151564', -- Empyrium
-        [4] = '124444', -- Infernal Brimstone
+        [4] = '124444' -- Infernal Brimstone
     },
     leathers = {
         [1] = '124113', -- Stonehide Leather
@@ -103,23 +103,23 @@ aura_env.legion = {
         [3] = '124115', -- Stormscale
         [4] = '136534', -- Gravenscale
         [5] = '151566', -- Fiendish Leather
-        [6] = '124116', -- Felhide
+        [6] = '124116' -- Felhide
     },
     disenchants = {
         [1] = '124440', -- Arkhana
         [2] = '124441', -- Leylight Shard
-        [3] = '124442', -- Chaos Crystal
+        [3] = '124442' -- Chaos Crystal
     },
     cloths = {
         [1] = '124437', -- Shal'dorei Silk
-        [2] = '151567', -- Lightweave Cloth
+        [2] = '151567' -- Lightweave Cloth
     },
     meats = {
         [1] = '124121', -- Wildfowl Egg
         [2] = '124120', -- Leyblood
         [3] = '124119', -- Big Gamy Ribs
         [4] = '124118', -- Fatty Bearsteak
-        [5] = '124117', -- Lean Shank
+        [5] = '124117' -- Lean Shank
     },
     fishes = {
         [1] = '124109', -- Highmountain Salmon
@@ -128,7 +128,7 @@ aura_env.legion = {
         [4] = '133607', -- Silver Mackerel
         [5] = '124107', -- Cursed Queenfish
         [6] = '124110', -- Stormray
-        [7] = '124111', -- Runescale Koi
+        [7] = '124111' -- Runescale Koi
     }
 }
 
@@ -139,22 +139,22 @@ aura_env.warlordsofdreanor = {
         [3] = '109127', -- Starflower
         [4] = '109126', -- Gorgrond Flytrap
         [5] = '109125', -- Fireweed
-        [6] = '109124', -- Frostweed
+        [6] = '109124' -- Frostweed
     },
     ores = {
         [1] = '109119', -- True Iron Ore
-        [2] = '109118', -- Blackrock Ore
+        [2] = '109118' -- Blackrock Ore
     },
     leathers = {
-        [1] = '110609', -- Raw Beast Hide
+        [1] = '110609' -- Raw Beast Hide
     },
     disenchants = {
         [1] = '109693', -- Draenic Dust
         [2] = '111245', -- Luminous Shard
-        [3] = '113588', -- Temporal Crystal
+        [3] = '113588' -- Temporal Crystal
     },
     cloths = {
-        [1] = '111557', -- Sumptuous Fur
+        [1] = '111557' -- Sumptuous Fur
     },
     meats = {
         [1] = '109136', -- Raw Boar Meat
@@ -162,7 +162,7 @@ aura_env.warlordsofdreanor = {
         [3] = '109134', -- Raw Elekk Meat
         [4] = '109133', -- Rylak Egg
         [5] = '109132', -- Raw Talbuk Meat
-        [6] = '109131', -- Raw Clefthoof Meat
+        [6] = '109131' -- Raw Clefthoof Meat
     },
     fishes = {
         [1] = '109144', -- Blackwater Whiptail Flesh
@@ -172,7 +172,7 @@ aura_env.warlordsofdreanor = {
         [5] = '109140', -- Blind Lake Sturgeon Flesh
         [6] = '109139', -- Fat Sleeper Flesh
         [7] = '109138', -- Jawless Skulker Flesh
-        [8] = '109137', -- Crescent Saberfish Flesh
+        [8] = '109137' -- Crescent Saberfish Flesh
     }
 }
 
@@ -183,26 +183,26 @@ aura_env.mistofpandaria = {
         [3] = '97621', -- Silkweed Stem
         [4] = '97620', -- Rain Poppy Petal
         [5] = '97619', -- Torn Green Tea Leaf
-        [6] = '72238', -- Golden Lotus
+        [6] = '72238' -- Golden Lotus
     },
     ores = {
         [1] = '97546', -- Kyparite Fragment
         [2] = '97512', -- Ghost Iron Nugget
         [3] = '72103', -- White Trillium Ore
-        [4] = '72094', -- Black Trillium Ore
+        [4] = '72094' -- Black Trillium Ore
     },
     leathers = {
         [1] = '72162', -- Sha-Touched Leather
-        [2] = '112157', -- Prismatic Scale Fragment
+        [2] = '112157' -- Prismatic Scale Fragment
     },
     disenchants = {
         [1] = '105718', -- Sha Crystal Fragment
         [2] = '74249', -- Spirit Dust
         [3] = '74252', -- Small Ethereal Shard
-        [4] = '102218', -- Spirit of War
+        [4] = '102218' -- Spirit of War
     },
     cloths = {
-        [1] = '72988', -- Windwool Cloth
+        [1] = '72988' -- Windwool Cloth
     },
     meats = {
         [1] = '75014', -- Raw Crocolisk Belly
@@ -224,7 +224,7 @@ aura_env.mistofpandaria = {
         [17] = '102543', -- Aged Mogu'shan Cheese
         [18] = '102542', -- Ancient Pandaren Spices
         [19] = '102541', -- Aged Balsamic Vinegar
-        [20] = '85506', -- Viseclaw Meat
+        [20] = '85506' -- Viseclaw Meat
     },
     fishes = {
         [1] = '74865', -- Krasarang Paddlefish
@@ -234,7 +234,7 @@ aura_env.mistofpandaria = {
         [5] = '74860', -- Redbelly Mandarin
         [6] = '74859', -- Emperor Salmon
         [7] = '74857', -- Giant Mantis Shrimp
-        [8] = '74856', -- Jade Lungfish
+        [8] = '74856' -- Jade Lungfish
     }
 }
 
@@ -245,17 +245,17 @@ aura_env.cataclysm = {
         [3] = '52984', -- Stormvine
         [4] = '52986', -- Heartblossom
         [5] = '52988', -- Whiptail
-        [6] = '52987', -- Twilight Jasmine
+        [6] = '52987' -- Twilight Jasmine
     },
     ores = {
         [1] = '53038', -- Obsidium Ore
         [2] = '52185', -- Elementium Ore
-        [3] = '52183', -- Pyrite Ore
+        [3] = '52183' -- Pyrite Ore
     },
     leathers = {
         [1] = '52977', -- Savage Leather Scraps
         [2] = '112155', -- Deepsea Scale Fragment
-        [3] = '112156', -- Blackened Dragonscale Fragment
+        [3] = '112156' -- Blackened Dragonscale Fragment
     },
     disenchants = {
         [1] = '52555', -- Hypnotic Dust
@@ -263,10 +263,10 @@ aura_env.cataclysm = {
         [3] = '52719', -- Greater Celestial Essence
         [4] = '52721', -- Heavenly Shard
         [5] = '52720', -- Small Heavenly Shard
-        [6] = '52722', -- Maelstrom Crystal
+        [6] = '52722' -- Maelstrom Crystal
     },
     cloths = {
-        [1] = '53010', -- Embersilk Cloth
+        [1] = '53010' -- Embersilk Cloth
     },
     meats = {
         [1] = '67229', -- Stag Flank
@@ -278,7 +278,7 @@ aura_env.cataclysm = {
         [7] = '62781', -- Giant Turtle Tongue
         [8] = '62780', -- Snake Eye
         [9] = '62779', -- Monstrous Claw
-        [10] = '62778', -- Toughened Flesh
+        [10] = '62778' -- Toughened Flesh
     },
     fishes = {
         [1] = '53072', -- Deepsea Sagefish
@@ -291,7 +291,7 @@ aura_env.cataclysm = {
         [8] = '53065', -- Albino Cavefish
         [9] = '53064', -- Highland Guppy
         [10] = '53063', -- Mountain Trout
-        [11] = '53062', -- Sharptooth
+        [11] = '53062' -- Sharptooth
     }
 }
 
@@ -305,18 +305,18 @@ aura_env.wrathofthelichking = {
         [6] = '36903', -- Adder's Tongue
         [7] = '36906', -- Icethorn
         [8] = '36905', -- Lichbloom
-        [9] = '36908', -- Frost Lotus
+        [9] = '36908' -- Frost Lotus
     },
     ores = {
         [1] = '36909', -- Cobalt Ore
         [2] = '36912', -- Saronite Ore
-        [3] = '36910', -- Titanium Ore
+        [3] = '36910' -- Titanium Ore
     },
     leathers = {
         [1] = '112177', -- Nerubian Chitin Fragment
         [2] = '33567', -- Borean Leather Scraps
         [3] = '112178', -- Jormungar Scale Fragment
-        [4] = '112158', -- Icy Dragonscale Fragment
+        [4] = '112158' -- Icy Dragonscale Fragment
     },
     disenchants = {
         [1] = '34054', -- Infinite Dust
@@ -324,11 +324,11 @@ aura_env.wrathofthelichking = {
         [3] = '34055', -- Greater Cosmic Essence
         [4] = '34053', -- Small Dream Shard
         [5] = '34052', -- Dream Shard
-        [6] = '34057', -- Abyss Crystal
+        [6] = '34057' -- Abyss Crystal
     },
     cloths = {
         [1] = '33470', -- Frostweave Cloth
-        [2] = '42253', -- Iceweb Spider Silk
+        [2] = '42253' -- Iceweb Spider Silk
     },
     meats = {
         [1] = '44834', -- Wild Turkey
@@ -339,7 +339,7 @@ aura_env.wrathofthelichking = {
         [6] = '43010', -- Worm Meat
         [7] = '43009', -- Shoveltusk Flank
         [8] = '34736', -- Chunk o' Mammoth
-        [9] = '36782', -- Succulent Clam Meat
+        [9] = '36782' -- Succulent Clam Meat
     },
     fishes = {
         [1] = '41814', -- Glassfin Minnow
@@ -354,7 +354,7 @@ aura_env.wrathofthelichking = {
         [10] = '41803', -- Rockfin Grouper
         [11] = '41802', -- Imperial Manta Ray
         [12] = '41801', -- Moonglow Cuttlefish
-        [13] = '41800', -- Deep Sea Monsterbelly
+        [13] = '41800' -- Deep Sea Monsterbelly
     }
 }
 
@@ -369,13 +369,13 @@ aura_env.theburningcrusade = {
         [7] = '22793', -- Mana Thistle
         [8] = '22792', -- Nightmare Vine
         [9] = '22791', -- Netherbloom
-        [10] = '22794', -- Fel Lotus
+        [10] = '22794' -- Fel Lotus
     },
     ores = {
         [1] = '23424', -- Fel Iron Ore
         [2] = '23425', -- Adamantite Ore
         [3] = '23427', -- Eternium Ore
-        [4] = '23426', -- Khorium Ore
+        [4] = '23426' -- Khorium Ore
     },
     leathers = {
         [1] = '29548', -- Nether Dragonscales
@@ -386,7 +386,7 @@ aura_env.theburningcrusade = {
         [6] = '25699', -- Crystal Infused Leather
         [7] = '25649', -- Knothide Leather Scraps
         [8] = '21887', -- Knothide Leather
-        [9] = '25707', -- Fel Hide
+        [9] = '25707' -- Fel Hide
     },
     disenchants = {
         [1] = '22445', -- Arcane Dust
@@ -394,11 +394,11 @@ aura_env.theburningcrusade = {
         [3] = '22446', -- Greater Planar Essence
         [4] = '22448', -- Small Prismatic Shard
         [5] = '22449', -- Large Prismatic Shard
-        [6] = '22450', -- Void Crystal
+        [6] = '22450' -- Void Crystal
     },
     cloths = {
         [1] = '21881', -- Netherweb Spider Silk
-        [2] = '21877', -- Netherweave Cloth
+        [2] = '21877' -- Netherweave Cloth
     },
     meats = {
         [1] = '23676', -- Moongraze Stag Tenderloin
@@ -414,7 +414,7 @@ aura_env.theburningcrusade = {
         [11] = '27677', -- Chunk o' Basilisk
         [12] = '27674', -- Ravager Flesh
         [13] = '27671', -- Buzzard Meat
-        [14] = '24477', -- Jaggal Clam Meat
+        [14] = '24477' -- Jaggal Clam Meat
     },
     fishes = {
         [1] = '27439', -- Furious Crawdad
@@ -426,11 +426,11 @@ aura_env.theburningcrusade = {
         [7] = '27422', -- Barbed Gill Trout
         [8] = '33824', -- Crescent-Tail Skullfish
         [9] = '33823', -- Bloodfin Catfish
-        [10] = '35285', -- Giant Sunfish
+        [10] = '35285' -- Giant Sunfish
     }
 }
 
-aura_env.vanilla = { -- Retail
+aura_env.vanilla = {
     herbs = {
         [1] = '2447', -- Peacebloom
         [2] = '765', -- Silverleaf
@@ -462,7 +462,7 @@ aura_env.vanilla = { -- Retail
         [28] = '8839', -- Blindweed
         [29] = '13467', -- Icecap
         [30] = '13468', -- Black Lotus
-        [31] = '22710', -- Bloodthistle
+        [31] = '22710' -- Bloodthistle
     },
     ores = {
         [1] = '22203', -- Large Obsidian Shard
@@ -483,7 +483,7 @@ aura_env.vanilla = { -- Retail
         [16] = '11370', -- Dark Iron Ore
         [17] = '12809', -- Guardian Stone
         [18] = '18562', -- Elementium Ingot
-        [19] = '17203', -- Sulfuron Ingot
+        [19] = '17203' -- Sulfuron Ingot
     },
     leathers = {
         [1] = '7392', -- Green Whelp Scale
@@ -512,7 +512,7 @@ aura_env.vanilla = { -- Retail
         [24] = '15408', -- Heavy Scorpid Scale
         [25] = '17012', -- Core Leather
         [26] = '15414', -- Red Dragonscale
-        [27] = '15410', -- Scale of Onyxia
+        [27] = '15410' -- Scale of Onyxia
     },
     disenchants = {
         [1] = '10940', -- Strange Dust
@@ -522,7 +522,7 @@ aura_env.vanilla = { -- Retail
         [5] = '16202', -- Lesser Eternal Essence
         [6] = '14343', -- Small Brilliant Shard
         [7] = '16203', -- Greater Eternal Essence
-        [8] = '14344', -- Large Brilliant Shard
+        [8] = '14344' -- Large Brilliant Shard
     },
     cloths = {
         [1] = '2589', -- Linen Cloth
@@ -536,7 +536,7 @@ aura_env.vanilla = { -- Retail
         [9] = '4338', -- Mageweave Cloth
         [10] = '14256', -- Felcloth
         [11] = '14227', -- Ironweb Spider Silk
-        [12] = '14047', -- Runecloth
+        [12] = '14047' -- Runecloth
     },
     meats = {
         [1] = '723', -- Goretusk Liver
@@ -569,7 +569,7 @@ aura_env.vanilla = { -- Retail
         [28] = '12207', -- Giant Egg
         [29] = '7974', -- Zesty Clam Meat
         [30] = '20424', -- Sandworm Meat
-        [31] = '21024', -- Chimaerok Tenderloin
+        [31] = '21024' -- Chimaerok Tenderloin
     },
     fishes = {
         [1] = '6303', -- Raw Slitherskin Mackerel
@@ -589,7 +589,7 @@ aura_env.vanilla = { -- Retail
         [15] = '13754', -- Raw Glossy Mightfish
         [16] = '4603', -- Raw Spotted Yellowtail
         [17] = '13889', -- Raw Whitescale Salmon
-        [18] = '13888', -- Darkclaw Lobster
+        [18] = '13888' -- Darkclaw Lobster
     }
 }
 

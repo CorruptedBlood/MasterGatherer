@@ -593,6 +593,16 @@ aura_env.vanilla = {
     }
 }
 
+aura.env.classic = {
+    herbs = {},
+    ores = {},
+    leathers = {},
+    disenchants = {},
+    cloths = {},
+    meats = {},
+    fishes = {}
+}
+
 function size(T)
     local count = 0
     for _ in pairs(T) do count = count + 1 end
@@ -634,6 +644,10 @@ function GetContentMats()
     
     if aura_env.config['content'] == 8 then
         allMats = aura_env.vanilla
+    end
+
+    if aura_env.config['content'] == 9 then
+        allMats = aura_env.classic
     end
     
     if aura_env.config['showHerbalism'] then
